@@ -1,6 +1,7 @@
-# BusinessTechnologyLabs - Templating
-Business Technology Labs in conjunction with Craig Derington, Inc.
+# BusinessTechnology Labs
+In partnership with Craig Derington, Inc.
 
-## Introducing Gravity
+### Introducing Gravity
+The standard in website development templates
 
 
